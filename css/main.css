@@ -2,26 +2,48 @@ body,html{
     height: 100%;
     margin:0 auto;
 }   
+.link{
+    color: white;
+    padding: 10px 20px;
+}
+.link:hover{
+    background: darkred;
+}
 .section1{
     background: url(../img/maxresdefault.jpg);
     width: 100%;
     height: 100%;
-    text-align: center
+    text-align: center;
+    margin-top: 60px;
 }
 .judul{
     font-family: sans-serif;
     font-size: 70px;
     color: darkred;
-    border-bottom: solid 2px black;
+    margin: auto;
 
 }.sub-judul{
     font-family: century gothic;
     font-size: 40px;
     color: black;
+    margin: auto;
 }
 .section2{
     background: grey;
     padding: 70px 20px;
     color: darkred;
+    font-size: 24px;
+}
+.section3{
+    background: white;
+    font-size: 70px;
+    padding: 15px 10px;
+}
+.col-warna{
+    background: black;
+    font-size: 24px;
+}
+.col-warna2{
+    background: grey;
     font-size: 24px;
 }
