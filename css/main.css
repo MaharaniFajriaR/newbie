@@ -1,6 +1,7 @@
 body,html{
     height: 100%;
     margin:0 auto;
+    scroll-behavior: smooth;
 }   
 .link{
     color: salmon;
@@ -22,7 +23,8 @@ body,html{
     font-size: 70px;
     color: darkred;
     margin: auto;
-    text-align: center:
+    text-align: center;
+    text-shadow: 2px 2px 5px salmon;
 
 }.sub-judul{
     font-family: futura bk bt;
@@ -31,31 +33,31 @@ body,html{
     margin: auto;
 }
 .section2{
-    background: salmon;
-    padding: 50px 30px;
+    background: #B5CCBD;
+    padding: 40px 30px;
     color: darkred;
-    font-size: 28px;
+    font-size: 24px;
     font-family: futura bk bt;
 }
 .section3{
-    background: white;
+    background: #F3E1D5;
     font-size: 70px;
     padding: 10px 10px;
     font-family: futura bk bt;
 }
 .col-warna{
-    background: tomato;
-    font-size: 28px;
+    background-image:linear-gradient(#CF9490,#F3E1D5);
+    font-size: 24px;
     font-family: futura bk bt;
 }
 .col-warna2{
-    background: grey;
-    font-size: 28px;
+    background: #F3E1D5;
+    font-size: 24px;
     font-family: futura bk bt;
 }
 .section4{
-    background: salmon;
-    padding: 50px 30px;
+     background: #F6C094;
+    padding: 40px 30px;
     color: white;
-    font-size: 28px;
+    font-size: 24px;
     font-family: futura bk bt;
